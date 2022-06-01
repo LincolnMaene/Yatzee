@@ -1,0 +1,13 @@
+C:\Users\maene\source\repos\YatzeeServer\YatzeeServer\obj\Debug\YatzeeServer.csprojAssemblyReference.cache
+C:\Users\maene\source\repos\YatzeeServer\YatzeeServer\obj\Debug\YatzeeServer.Properties.Resources.resources
+C:\Users\maene\source\repos\YatzeeServer\YatzeeServer\obj\Debug\YatzeeServer.csproj.GenerateResource.cache
+C:\Users\maene\source\repos\YatzeeServer\YatzeeServer\obj\Debug\YatzeeServer.csproj.CoreCompileInputs.cache
+C:\Users\maene\source\repos\YatzeeServer\YatzeeServer\bin\Debug\YatzeeServer.exe.config
+C:\Users\maene\source\repos\YatzeeServer\YatzeeServer\bin\Debug\YatzeeServer.exe
+C:\Users\maene\source\repos\YatzeeServer\YatzeeServer\bin\Debug\YatzeeServer.pdb
+C:\Users\maene\source\repos\YatzeeServer\YatzeeServer\bin\Debug\Packet.dll
+C:\Users\maene\source\repos\YatzeeServer\YatzeeServer\bin\Debug\Packet.pdb
+C:\Users\maene\source\repos\YatzeeServer\YatzeeServer\obj\Debug\YatzeeServer.csproj.CopyComplete
+C:\Users\maene\source\repos\YatzeeServer\YatzeeServer\obj\Debug\YatzeeServer.exe
+C:\Users\maene\source\repos\YatzeeServer\YatzeeServer\obj\Debug\YatzeeServer.pdb
+C:\Users\maene\source\repos\YatzeeServer\YatzeeServer\obj\Debug\YatzeeServer.Server.resources

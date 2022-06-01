@@ -1,0 +1,6 @@
+C:\Users\maene\source\repos\YatzeeServer\Packet\bin\Debug\Packet.dll
+C:\Users\maene\source\repos\YatzeeServer\Packet\bin\Debug\Packet.pdb
+C:\Users\maene\source\repos\YatzeeServer\Packet\obj\Debug\Packet.csprojAssemblyReference.cache
+C:\Users\maene\source\repos\YatzeeServer\Packet\obj\Debug\Packet.csproj.CoreCompileInputs.cache
+C:\Users\maene\source\repos\YatzeeServer\Packet\obj\Debug\Packet.dll
+C:\Users\maene\source\repos\YatzeeServer\Packet\obj\Debug\Packet.pdb
